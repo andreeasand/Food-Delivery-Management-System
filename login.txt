@@ -1,0 +1,10 @@
+Admin,admin1,123
+Admin,admin2,123
+Client,user1,123
+Employee,employee,123
+Client,user2,123
+Client,user3,123
+Client,ana,1
+Client,ion,2
+Client,client1,123
+Client,ale,123
